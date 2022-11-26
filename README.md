@@ -1,4 +1,4 @@
-#Search Americanas
+# Search Americanas
 
 **Como rodar o projeto**:
 
